@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\bin\Debug\net8.0\EjemploPolimorfismo.exe
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\bin\Debug\net8.0\EjemploPolimorfismo.deps.json
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\bin\Debug\net8.0\EjemploPolimorfismo.runtimeconfig.json
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\bin\Debug\net8.0\EjemploPolimorfismo.dll
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\bin\Debug\net8.0\EjemploPolimorfismo.pdb
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.dll
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\refint\EjemploPolimorfismo.dll
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.pdb
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\EjemploPolimorfismo.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Programacion2\EjemploPolimorfismo\obj\Debug\net8.0\ref\EjemploPolimorfismo.dll
