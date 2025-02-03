@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\bin\Debug\net8.0\YAGNIPrinciple.exe
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\bin\Debug\net8.0\YAGNIPrinciple.deps.json
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\bin\Debug\net8.0\YAGNIPrinciple.runtimeconfig.json
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\bin\Debug\net8.0\YAGNIPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\bin\Debug\net8.0\YAGNIPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\refint\YAGNIPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\YAGNIPrinciple.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Programacion2\YAGNIPrinciple\obj\Debug\net8.0\ref\YAGNIPrinciple.dll
