@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\bin\Debug\net8.0\DryPrinciple.exe
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\bin\Debug\net8.0\DryPrinciple.deps.json
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\bin\Debug\net8.0\DryPrinciple.runtimeconfig.json
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\bin\Debug\net8.0\DryPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\bin\Debug\net8.0\DryPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\refint\DryPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\DryPrinciple.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Programacion2\DryPrinciple\obj\Debug\net8.0\ref\DryPrinciple.dll
