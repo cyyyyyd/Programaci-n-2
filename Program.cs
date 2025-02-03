@@ -1,78 +1,32 @@
 ﻿using System;
+using System.Linq;
 
-abstract class Empleado
+namespace YAGNI_Principle
 {
-    public string Nombre { get; set; }
-    public bool MetaAlcanzada { get; set; }
-
-    public Empleado(string nombre, bool metaAlcanzada)
+    class Program
     {
-        Nombre = nombre;
-        MetaAlcanzada = metaAlcanzada;
-    }
+        static void Main()
+        {
+            Console.WriteLine("Seleccione una opción:");
+            Console.WriteLine("1. Agregar producto");
+            Console.WriteLine("2. Eliminar producto");
+            int opcion = int.Parse(Console.ReadLine());
 
-    public abstract decimal CalcularSalario();
-}
-
-class DocentePorHora : Empleado
-{
-    public int HorasTrabajadas { get; set; }
-    private const decimal TarifaPorHora = 800;
-
-    public DocentePorHora(string nombre, int horasTrabajadas, bool metaAlcanzada)
-        : base(nombre, metaAlcanzada)
-    {
-        HorasTrabajadas = horasTrabajadas;
-    }
-
-    public override decimal CalcularSalario()
-    {
-        return HorasTrabajadas * TarifaPorHora;
-    }
-}
-
-class DocenteFijo : Empleado
-{
-    public decimal SalarioBase { get; set; }
-
-    public DocenteFijo(string nombre, decimal salarioBase, bool metaAlcanzada)
-        : base(nombre, metaAlcanzada)
-    {
-        SalarioBase = salarioBase;
-    }
-
-    public override decimal CalcularSalario()
-    {
-        return MetaAlcanzada ? SalarioBase : SalarioBase / 2;
-    }
-}
-class EmpleadoAdministrativo : Empleado
-{
-    public decimal SalarioBase { get; set; }
-
-    public EmpleadoAdministrativo(string nombre, decimal salarioBase, bool metaAlcanzada)
-        : base(nombre, metaAlcanzada)
-    {
-        SalarioBase = salarioBase;
-    }
-
-    public override decimal CalcularSalario()
-    {
-        return MetaAlcanzada ? SalarioBase : SalarioBase / 2;
+            if (opcion == 1)
+            {
+                Console.Write("Ingrese el nombre del producto: ");
+                string nombre = Console.ReadLine();
+                Console.Write("Ingrese el precio: ");
+                decimal precio = decimal.Parse(Console.ReadLine());
+                Console.WriteLine($"Producto '{nombre}' agregado con éxito.");
+            }
+            else if (opcion == 2)
+            {
+                Console.Write("Ingrese el ID del producto: ");
+                int id = int.Parse(Console.ReadLine());
+                Console.WriteLine($"Producto con ID {id} eliminado.");
+            }
+        }
     }
 }
 
-class Program
-{
-    static void Main(string[] args)
-    {
-       
-        Empleado docentePorHora = new DocentePorHora("Cielo", 40, false);
-        Empleado docenteFijo = new DocenteFijo("Luz", 50000, true);
-        Empleado administrativo = new EmpleadoAdministrativo("Sol", 40000, false);
-
-        Console.WriteLine($"{docentePorHora.Nombre} - Salario Mensual: {docentePorHora.CalcularSalario():C}");
-        Console.WriteLine($"{docenteFijo.Nombre} - Salario Mensual: {docenteFijo.CalcularSalario():C}");
-        Console.WriteLine($"{administrativo.Nombre} - Salario Mensual: {administrativo.CalcularSalario():C}");
-    }
-}
