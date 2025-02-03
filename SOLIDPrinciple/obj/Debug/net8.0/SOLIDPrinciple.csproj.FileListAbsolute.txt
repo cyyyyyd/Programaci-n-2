@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\bin\Debug\net8.0\SOLIDPrinciple.exe
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\bin\Debug\net8.0\SOLIDPrinciple.deps.json
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\bin\Debug\net8.0\SOLIDPrinciple.runtimeconfig.json
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\bin\Debug\net8.0\SOLIDPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\bin\Debug\net8.0\SOLIDPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\refint\SOLIDPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\SOLIDPrinciple.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Programacion2\SOLIDPrinciple\obj\Debug\net8.0\ref\SOLIDPrinciple.dll

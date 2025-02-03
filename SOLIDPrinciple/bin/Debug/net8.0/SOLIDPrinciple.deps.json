@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SOLIDPrinciple/1.0.0": {
+        "runtime": {
+          "SOLIDPrinciple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLIDPrinciple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
