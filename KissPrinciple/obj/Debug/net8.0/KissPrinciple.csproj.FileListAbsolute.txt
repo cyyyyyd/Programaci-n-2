@@ -1,0 +1,14 @@
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\bin\Debug\net8.0\KissPrinciple.exe
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\bin\Debug\net8.0\KissPrinciple.deps.json
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\bin\Debug\net8.0\KissPrinciple.runtimeconfig.json
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\bin\Debug\net8.0\KissPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\bin\Debug\net8.0\KissPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.AssemblyInfoInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.AssemblyInfo.cs
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\refint\KissPrinciple.dll
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.pdb
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\KissPrinciple.genruntimeconfig.cache
+C:\Users\Laptop\Desktop\Programacion2\KissPrinciple\obj\Debug\net8.0\ref\KissPrinciple.dll
